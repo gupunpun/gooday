@@ -67,7 +67,7 @@ class _IntroductionState extends State<Introduction>
             tabPageSelector: _tabPageSelector,
             title: 'Viva bem',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus venenatis purus, in rhoncus lacus mollis eget.',
+                'Que você viva muito bem sua vida 👌👌',
             onButtonPressed: onButtonPressed,
           ),
           IntroPage(
@@ -75,7 +75,7 @@ class _IntroductionState extends State<Introduction>
             tabPageSelector: _tabPageSelector,
             title: 'Treine bem',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus venenatis purus, in rhoncus lacus mollis eget.',
+                'Treine bem, pois ajuda na saúde 👍👍',
             onButtonPressed: onButtonPressed,
           ),
           IntroPage(
@@ -83,7 +83,7 @@ class _IntroductionState extends State<Introduction>
             tabPageSelector: _tabPageSelector,
             title: 'Divirta-se',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus venenatis purus, in rhoncus lacus mollis eget.',
+                'Se divirta, pois isso te fará mais feliz 🤞🤞',
             onButtonPressed: onButtonPressed,
           ),
           IntroPage(
@@ -91,7 +91,7 @@ class _IntroductionState extends State<Introduction>
             tabPageSelector: _tabPageSelector,
             title: 'Alimente-se bem',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus venenatis purus, in rhoncus lacus mollis eget.',
+                'Se alimente bem, pois isso ajuda no seu dia a dia ✌️✌️',
             onButtonPressed: onButtonPressed,
           ),
         ],

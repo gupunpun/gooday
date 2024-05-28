@@ -40,7 +40,7 @@ class _LoginState extends State<Login> {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            const Text(
+             const Text(
               'com E-mail e Senha',
               style: TextStyle(
                 color: ColorStyle.textNeutrals,

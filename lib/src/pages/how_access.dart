@@ -25,7 +25,7 @@ class _HowAccessState extends State<HowAccess> {
           const Padding(
             padding: EdgeInsets.all(12.0),
             child: Text(
-              'Ótimo dia!',
+              'Seja bem vindo(a)',
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 35,
@@ -59,9 +59,9 @@ class _HowAccessState extends State<HowAccess> {
                   style: TextStyle(color: Colors.white),
                 ),
                 style: OutlinedButton.styleFrom(
-                  backgroundColor: const Color.fromRGBO(20, 200, 113, 1.0),
+                  backgroundColor: Color.fromARGB(255, 255, 187, 252),
                   side: const BorderSide(
-                    color: Color.fromRGBO(20, 200, 113, 1.0),
+                    color: Color.fromRGBO(255, 172, 249, 1),
                   ),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(10.0),
@@ -77,7 +77,7 @@ class _HowAccessState extends State<HowAccess> {
               onPressed: () => {},
               style: OutlinedButton.styleFrom(
                 side: const BorderSide(
-                  color: Color.fromRGBO(20, 200, 113, 1.0),
+                  color: Color.fromRGBO(255, 169, 245, 1),
                 ),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10.0),
